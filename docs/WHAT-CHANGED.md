@@ -45,4 +45,4 @@ Both films followed the same procedure (`docs/PROCEDURE.md`). Genesis 16's numbe
 15. **Measured checks on the encode:** 21,000 frames, full decode, audio offset 0 ms at three points, flash test, frozen
     runs, black runs.
 16. **Clips before the render:** every scene at quarter size, looked at across time, so dead shots were found early.
-17. **Photos copies:** a 799 MB phone copy with the 4.79 GB master, because cloud upload took 19 minutes for the master alone.
+17. **A phone copy:** a 799 MB phone copy with the 4.79 GB master, because cloud upload took 19 minutes for the master alone.
