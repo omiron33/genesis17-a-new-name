@@ -1,13 +1,13 @@
 # What this film did differently from Genesis 16
 
-Shane on version 1: "Whatever changes were implemented this video nailed it." These are the changes, so they can be kept.
+The owner on version 1: "Whatever changes were implemented this video nailed it." These are the changes, so they can be kept.
 Both films followed the same procedure (`docs/PROCEDURE.md`). Genesis 16's numbers are from its own records.
 
 | | Genesis 16, version 3 | Genesis 17, version 1 |
 |---|---|---|
 | Renderer | raymarched world in one shader | Three.js scenes (`kind = 'three'`) of real geometry |
 | Scenes | 47 for 273 s | 71 for 350 s, every cut on a beat or in a breath |
-| Cost on OmiPC | 0.76 to 1.45 s a frame | 0.35 s a frame, 2.07 h for all 21,000 frames |
+| Cost on the render machine | 0.76 to 1.45 s a frame | 0.35 s a frame, 2.07 h for all 21,000 frames |
 | Samples | 8, 16 on fast motion | 16 on every scene |
 
 **What makes the picture**
@@ -45,4 +45,4 @@ Both films followed the same procedure (`docs/PROCEDURE.md`). Genesis 16's numbe
 15. **Measured checks on the encode:** 21,000 frames, full decode, audio offset 0 ms at three points, flash test, frozen
     runs, black runs.
 16. **Clips before the render:** every scene at quarter size, looked at across time, so dead shots were found early.
-17. **Photos copies:** a 799 MB phone copy with the 4.79 GB master, because iCloud took 19 minutes for the master alone.
+17. **Photos copies:** a 799 MB phone copy with the 4.79 GB master, because cloud upload took 19 minutes for the master alone.
