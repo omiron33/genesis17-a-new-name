@@ -38,13 +38,16 @@ frames, a 12-frame strip and a clip with sound per scene, from the encoded film.
 No hard-rule breach. One serious misread: in s41 the bare staffs with cross-pegs looked like a row of crosses.
 None of them heard the song or watched it play; they judged sampled frames.
 
-One fix pass followed, on 25 scenes, which became version 2. **Version 2 has not been scored by this panel.**
+One fix pass followed, in two batches, which became version 2: 31 pictures redrawn and 3 scenes with only their words
+moved (34 scenes in all). **Version 2 has not been scored by this panel.**
 Rewritten: s08, s23 (two strands wound in their own lanes), s15 (a true overhand knot in the cord), s30 (the staffs of
 the house and a swinging lamp), s42 (nearer, bells in the bough), s41 (no cross-pegs). Fixed: s04 the mirror, s10 the
 stream, s11 the name lands on the word, s20 the cairn and its light, s24 the join, s33 the mark, s52 the water, s56 the
 leaf, s58 and s59 the footprints, s62 the count lit stone by stone, s65 the sign and its cord, s66 the lamps through
 the line, s48 the bells, Ismael's ties (s45, s46, s51, s53, s64), and the closing words under the held title (s70).
 
-Not fixed, and why: the repeated oak, tent and court backdrop, the likeness of many cameras, the near-view vine (s44),
-the canopy fringe (s39), the bag that stays tied (s31) and the lyric that crosses its subject in a few scenes. One pass
-only.
+Second batch: s05, s13, s18, s31, s36 and s44 fixed, and s46, s51 and s59 tuned again. Words only: s19, s37, s70. Every
+redrawn scene was set beside its version 1 picture, and kept only where it was clearly better or better attached.
+
+Not fixed, and why: the repeated oak, tent and court backdrop, the likeness of many cameras, the canopy fringe (s39)
+and the lyric that crosses its subject in a few scenes. One pass only.
