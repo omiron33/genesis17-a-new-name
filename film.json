@@ -1,0 +1,519 @@
+{
+ "samplePreset": "dove",
+ "fps": 60,
+ "tier": "ultra",
+ "samples": 16,
+ "title": "A New Name (Genesis 17)",
+ "scenes": [
+  {
+   "id": "00",
+   "scene": "s00-title",
+   "from": 0.0,
+   "to": 5.93,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "01",
+   "scene": "s01-tally",
+   "from": 5.93,
+   "to": 12.48,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "02",
+   "scene": "s02-ninety-nine",
+   "from": 12.48,
+   "to": 15.38,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "03",
+   "scene": "s03-appeared",
+   "from": 15.38,
+   "to": 19.77,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "04",
+   "scene": "s04-blameless",
+   "from": 19.77,
+   "to": 24.9,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "05",
+   "scene": "s05-between-us",
+   "from": 24.9,
+   "to": 27.77,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "06",
+   "scene": "s06-measure",
+   "from": 27.77,
+   "to": 31.47,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "07",
+   "scene": "s07-facedown",
+   "from": 31.47,
+   "to": 38.78,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "08",
+   "scene": "s08-covenant-with-you",
+   "from": 38.78,
+   "to": 44.57,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "09",
+   "scene": "s09-multitude",
+   "from": 44.57,
+   "to": 50.38,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "10",
+   "scene": "s10-no-longer",
+   "from": 50.38,
+   "to": 53.28,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "11",
+   "scene": "s11-abraam",
+   "from": 53.28,
+   "to": 56.18,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "12",
+   "scene": "s12-father-of-many",
+   "from": 56.18,
+   "to": 61.98,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "13",
+   "scene": "s13-fruitful",
+   "from": 61.98,
+   "to": 64.88,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "14",
+   "scene": "s14-kings",
+   "from": 64.88,
+   "to": 68.51,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "15",
+   "scene": "s15-keep",
+   "from": 68.51,
+   "to": 72.13,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "16",
+   "scene": "s16-every-generation",
+   "from": 72.13,
+   "to": 77.22,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "17",
+   "scene": "s17-everlasting",
+   "from": 77.22,
+   "to": 83.74,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "18",
+   "scene": "s18-i-will-give",
+   "from": 83.74,
+   "to": 86.64,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "19",
+   "scene": "s19-all-the-land",
+   "from": 86.64,
+   "to": 90.27,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "20",
+   "scene": "s20-possession",
+   "from": 90.27,
+   "to": 98.926,
+   "hold": "one long line",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "21",
+   "scene": "s21-god-said",
+   "from": 98.926,
+   "to": 101.87,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "cut in the breath before \"God said to Abraam,\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "22",
+   "scene": "s22-you-and-yours",
+   "from": 101.87,
+   "to": 106.95,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "23",
+   "scene": "s23-fully-keep",
+   "from": 106.95,
+   "to": 110.58,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "24",
+   "scene": "s24-me-and-you",
+   "from": 110.58,
+   "to": 114.93,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "25",
+   "scene": "s25-loom",
+   "from": 114.93,
+   "to": 118.55,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "26",
+   "scene": "s26-every-male",
+   "from": 118.55,
+   "to": 122.15,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "27",
+   "scene": "s27-curtain",
+   "from": 122.15,
+   "to": 126.53,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "28",
+   "scene": "s28-the-sign",
+   "from": 126.53,
+   "to": 132.32,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "29",
+   "scene": "s29-eight-days",
+   "from": 132.32,
+   "to": 136.188,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "30",
+   "scene": "s30-born-in-house",
+   "from": 136.188,
+   "to": 141.01,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "cut in the breath before \"throughout your generations\u2014those born in your house,\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "31",
+   "scene": "s31-strangers",
+   "from": 141.01,
+   "to": 147.52,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "32",
+   "scene": "s32-one-flame",
+   "from": 147.52,
+   "to": 153.29,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "33",
+   "scene": "s33-marked",
+   "from": 153.29,
+   "to": 159.08,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "34",
+   "scene": "s34-unmarked",
+   "from": 159.08,
+   "to": 164.85,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "35",
+   "scene": "s35-cut-off",
+   "from": 164.85,
+   "to": 172.08,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "36",
+   "scene": "s36-broken",
+   "from": 172.08,
+   "to": 176.47,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "37",
+   "scene": "s37-no-longer-sara",
+   "from": 176.47,
+   "to": 185.16,
+   "hold": "God turns to Sara's name",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "38",
+   "scene": "s38-sarrha",
+   "from": 185.16,
+   "to": 188.04,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "39",
+   "scene": "s39-bless-her",
+   "from": 188.04,
+   "to": 192.48,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "40",
+   "scene": "s40-nations",
+   "from": 192.48,
+   "to": 196.051,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "41",
+   "scene": "s41-kings-of-nations",
+   "from": 196.051,
+   "to": 201.09,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "cut in the breath before \"and kings of nations will come from him.\u201d\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "42",
+   "scene": "s42-laughed",
+   "from": 201.09,
+   "to": 203.932,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "43",
+   "scene": "s43-a-hundred",
+   "from": 203.932,
+   "to": 208.27,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "cut in the breath before \"saying in his heart, \u201cCan a child be born\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "44",
+   "scene": "s44-ninety",
+   "from": 208.27,
+   "to": 213.97,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "45",
+   "scene": "s45-may-ismael-live",
+   "from": 213.97,
+   "to": 219.84,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "46",
+   "scene": "s46-ismael-wind",
+   "from": 219.84,
+   "to": 224.24,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "47",
+   "scene": "s47-yes",
+   "from": 224.24,
+   "to": 228.413,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "48",
+   "scene": "s48-isaac",
+   "from": 228.413,
+   "to": 232.23,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "cut in the breath before \"will bear you a son. You shall name him Isaac.\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "49",
+   "scene": "s49-with-him",
+   "from": 232.23,
+   "to": 237.754,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "50",
+   "scene": "s50-seed-after-him",
+   "from": 237.754,
+   "to": 243.83,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "cut in the breath before \"to be God to him and his seed after him.\u201d\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "51",
+   "scene": "s51-i-have-heard",
+   "from": 243.83,
+   "to": 248.914,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "52",
+   "scene": "s52-a-spring",
+   "from": 248.914,
+   "to": 254.02,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "cut in the breath before \"I have blessed him; I will make him fruitful\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "53",
+   "scene": "s53-twelve",
+   "from": 254.02,
+   "to": 261.08,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "54",
+   "scene": "s54-but-isaac",
+   "from": 261.08,
+   "to": 264.575,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "55",
+   "scene": "s55-next-year",
+   "from": 264.575,
+   "to": 271.93,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "cut in the breath before \"whom Sarrha will bear to you at this season\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "56",
+   "scene": "s56-finished",
+   "from": 271.93,
+   "to": 274.9,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "57",
+   "scene": "s57-went-up",
+   "from": 274.9,
+   "to": 278.6,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "58",
+   "scene": "s58-took-ismael",
+   "from": 278.6,
+   "to": 281.54,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "59",
+   "scene": "s59-all-of-them",
+   "from": 281.54,
+   "to": 285.98,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "60",
+   "scene": "s60-every-man",
+   "from": 285.98,
+   "to": 291.02,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "61",
+   "scene": "s61-that-very-day",
+   "from": 291.02,
+   "to": 295.22,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "62",
+   "scene": "s62-ninety-nine-again",
+   "from": 295.22,
+   "to": 300.56,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "63",
+   "scene": "s63-the-tall-staff",
+   "from": 300.56,
+   "to": 304.38,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "64",
+   "scene": "s64-thirteen",
+   "from": 304.38,
+   "to": 308.95,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "65",
+   "scene": "s65-the-short-staff",
+   "from": 308.95,
+   "to": 313.51,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "66",
+   "scene": "s66-same-day",
+   "from": 313.51,
+   "to": 322.31,
+   "hold": "one long sung line",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "67",
+   "scene": "s67-every-man-ring",
+   "from": 322.31,
+   "to": 325.86,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "68",
+   "scene": "s68-house-and-money",
+   "from": 325.86,
+   "to": 331.06,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "69",
+   "scene": "s69-foreigners",
+   "from": 331.06,
+   "to": 338.0,
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "id": "70",
+   "scene": "s70-end",
+   "from": 338.0,
+   "to": 350.0,
+   "hold": "end title over the closing bars",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "offBeat": "authored time between beats"
+  }
+ ]
+}

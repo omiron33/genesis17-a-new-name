@@ -1,0 +1,8 @@
+o('s00', words=False, sy=0.50, frac=0.8, shade=0.25, extra="extra: (ctx, t, H) => { titleCard(ctx, H, ease.inOut3((t - P.from - 1.9) / 1.6), ease.inOut3((t - P.from - 0.7) / 1.8), 1 - ease.inOut3((t - P.to + 0.9) / 0.8)); }")
+o('s01', words=False)
+o('s46', words=False)
+o('s70', sy=0.0, frac=0.8, aspect=1.2, shade=0.25, extra="y: 2560, size: 200, extra: (ctx, t, H) => { titleCard(ctx, 1616, ease.inOut3((t - 340.6) / 1.8), ease.inOut3((t - 339.0) / 2.2), 1 - ease.inOut3((t - 348.9) / 0.9)); }")
+o('s31', ink=DARK, shade=0.35)
+o('s19', sy=-0.74)
+o('s37', wrap=60)
+o('s04', sy=-0.72)

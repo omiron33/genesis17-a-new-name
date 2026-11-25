@@ -1,0 +1,20 @@
+// On the valley floor tents go up one after another, cloth lifting on its poles, away into the haze.
+export const kind = 'three';
+import { shot, THREE, br } from '/song/lib/shot.js';
+import { camp, at, G, K } from '/song/lib/sets.js';
+import { sheet, clothMesh } from '/song/lib/cloth.js';
+import { rng, n2 } from '/song/lib/noise.js';
+import { rig, spring } from '/kit/motion.js';
+export default shot('s40-nations', {
+  sky: { hour: 'afternoon', az: 75, extent: 16, center: [0, 1, 22], gust: 0.7, el: 20 },
+  build(S, P) {
+    const R = camp(S, { at: [0, 18], n: 50000, r: 14, tents: 0, oak: false, flowers: 420, far: 420 }), sc = S.scene, r = rng(12);
+    const TINT = [[0.30, 0.22, 0.16], [0.46, 0.36, 0.24], [0.36, 0.10, 0.07], [0.14, 0.13, 0.20], [0.50, 0.42, 0.30]]; const mats = TINT.map((c, i) => K.mat('hair', { side: THREE.DoubleSide, u: { uStrips: 8 }, surf: `alb = mix(alb, vec3(${c.join(',')}) * (.7 + .5 * f), .75);` }, 'nt' + i));
+    const near = [[-4.5, 19, 0.3, 192.6], [3.6, 20.5, -0.25, 193.0], [-1.2, 24.5, 0.1, 193.4], [7.2, 26, -0.5, 193.7], [-7.8, 25.5, 0.4, 193.9]].map(([x, z, rot, t0], i) => { const y = G(x, z), w = 3.6, d = 2.8, c = Math.cos(rot), s = Math.sin(rot), up = (t) => Math.max(0, spring(t, t0, { freq: 0.85, damping: 0.5 })), gl = (a, b, h) => [x + a * c + b * s, h, z - a * s + b * c]; const nx = 30, ny = 22; const C = sheet({ w: w * 1.15, h: d * 1.62, nx, ny, t0: P.from - 0.6, seed: i + 1, iter: 12, damp: 0.99, rest: (u, v) => { const q = gl((u - 0.5) * w, (v - 0.5) * d, 0); return [q[0], G(q[0], q[2]) + 0.08, q[2]]; }, pin: (a, b) => { const e = (b === 0 || b === ny - 1) && (a === 0 || a === 14 || a === nx - 1), m = b === 11 && (a === 4 || a === 25); if (!e && !m) return null; const u = (a / (nx - 1) - 0.5) * w, v = (b / (ny - 1) - 0.5) * d; return (t) => { const q = gl(u, v * (e ? 1.0 : 1), 0); return [q[0], G(q[0], q[2]) + (m ? 0.08 + 1.9 * up(t) : 0.03 + 0.02 * up(t)), q[2]]; }; }, wind: (t) => [0.8 * br(t), 0, 0.5], ground: G }), cm = clothMesh(sc, C, mats[i % 5]);
+      const poles = [4, 25].map((a) => K.mesh(new THREE.CylinderGeometry(0.03, 0.035, 2.0, 8), K.mat('wood'), sc, gl((a / 29 - 0.5) * w, 0, y))); return { set(t) { cm.set(t); poles.forEach((p) => { p.position.y = y - 0.95 + 1.9 * up(t) * 1.0; }); } }; });
+    const src = sheet({ w: 4.2, h: 3.8, nx: 22, ny: 16, t0: 0, iter: 10, damp: 0.97, rest: (u, v) => [(u - 0.5) * 3.6, 1.9 - Math.abs(v - 0.5) * 3, (v - 0.5) * 2.8], pin: (a, b) => ((b === 0 || b === 15) && a % 7 === 0 ? () => [(a / 21 - 0.5) * 3.6, 0.02, (b / 15 - 0.5) * 3.1] : b === 8 && (a === 3 || a === 18) ? () => [(a / 21 - 0.5) * 3.6, 1.95, 0] : null), wind: () => [0, 0, 0] }); const tmp = new THREE.Group(), sm = clothMesh(tmp, src, mats[0], { sub: 1 }); sm.set(1.5); const geo = sm.mesh.geometry;
+    const list = []; let tr = 0; while (list.length < 260 && tr++ < 9000) { const d = 32 + 420 * Math.pow(r(), 1.3), a = (r() - 0.5) * 1.35, x = Math.sin(a) * d, z = 8 + Math.cos(a) * d; if (n2(x * 0.03 + 2, z * 0.03) < 0.42 || list.some((q) => Math.hypot(q[0] - x, q[1] - z) < 6)) continue; list.push([x, z, d, r()]); } const ims = mats.map((m, i) => { const L = list.filter((_, k) => k % 5 === i), im = new THREE.InstancedMesh(geo, m, L.length); im.castShadow = im.receiveShadow = true; im.frustumCulled = false; sc.add(im); return { im, L }; }); const m = new THREE.Matrix4(), q = new THREE.Quaternion();
+    return { update(t) { near.forEach((o) => o.set(t)); ims.forEach(({ im, L }) => { L.forEach(([x, z, d, h], k) => { const s = Math.max(0.001, spring(t, 193.6 + 1.5 * Math.pow((d - 32) / 420, 0.6) + 0.3 * h, { freq: 1.3, damping: 0.5 })); q.setFromEuler(new THREE.Euler(0, h * 6.28, 0)); const sz = 1.1 + 0.5 * h; m.compose(new THREE.Vector3(x, G(x, z) - 0.1, z), q, new THREE.Vector3(sz, sz * s, sz)); im.setMatrixAt(k, m); }); im.instanceMatrix.needsUpdate = true; }); } };
+  },
+  camera: (P) => rig({ from: P.from, to: P.to, path: [[-2.2, 2.6, 11.2], [-0.8, 3.4, 11.0], [1.0, 4.8, 10.2]], look: [[0, 1.0, 22], [0.2, 0.8, 22], [0.4, 0.4, 23]], fov: 46, enter: 'moving', exit: 'moving', handheld: 0.12 }),
+});

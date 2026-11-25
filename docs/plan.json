@@ -1,0 +1,722 @@
+{
+ "title": "A New Name (Genesis 17)",
+ "fps": 60,
+ "tier": "ultra",
+ "samples": 16,
+ "scenes": [
+  {
+   "at": "0s",
+   "slug": "title",
+   "screen": "Before dawn: up through the grass to the oak of Mambre under the stars, the staff leaning on its trunk, a hearth alive by the tents; the title stands in the sky.",
+   "purpose": "Before dawn",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": "6.1s",
+   "slug": "tally",
+   "screen": "Low along a slow spiral of pale stones, a count of years; the last place in the row is empty.",
+   "purpose": "Low along a slow spiral of pale stones, a count of years; the last place in the row is empty.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 0,
+   "slug": "ninety-nine",
+   "screen": "On \"ninety-nine\" the last stone rolls in, rocks and settles in its place at the foot of the staff.",
+   "purpose": "On \"ninety-nine\" the last stone rolls in, rocks and settles in its place at the foot of the staff.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 1,
+   "slug": "appeared",
+   "screen": "On \"appeared\" light comes down through the oak; the shadows of its limbs sweep out over the ground and the grass bows away.",
+   "purpose": "On \"appeared\" light comes down through the oak; the shadows of its limbs sweep out over the ground and the grass bows away.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 2,
+   "slug": "blameless",
+   "screen": "A bowl of water, trembling: as he speaks the rings die, and on \"blameless\" the water is a clear mirror holding the light.",
+   "purpose": "A bowl of water, trembling",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 4,
+   "slug": "between-us",
+   "screen": "A strand of flax lies on the altar; a strand of light comes down beside it, and on \"between us\" the two take one turn round each other.",
+   "purpose": "A strand of flax lies on the altar; a strand of light comes down beside it, and on \"between us\" the two take one turn round each other.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 5,
+   "slug": "measure",
+   "screen": "A wooden measure fills with grain, heaps, and on \"beyond measure\" runs over on every side.",
+   "purpose": "A wooden measure fills with grain, heaps, and on \"beyond measure\" runs over on every side.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 6,
+   "slug": "facedown",
+   "screen": "On \"facedown\" the staff falls full length to the earth, knocks, and lies still; light comes over it.",
+   "purpose": "On \"facedown\" the staff falls full length to the earth, knocks, and lies still; light comes over it.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 8,
+   "slug": "covenant-with-you",
+   "screen": "Sunrise: flax winds up the staff from its foot, light winds down from its hook, till the two lie side by side.",
+   "purpose": "Sunrise",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 9,
+   "slug": "multitude",
+   "screen": "Over the staff to the valley: on ridge after ridge bright standards go up and take the wind.",
+   "purpose": "Over the staff to the valley",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 10,
+   "slug": "no-longer",
+   "screen": "A clay slab with the old mark; water is poured across it and on \"Abram\" the mark is gone, the clay smooth.",
+   "purpose": "A clay slab with the old mark; water is poured across it and on \"Abram\" the mark is gone, the clay smooth.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 11,
+   "slug": "abraam",
+   "screen": "On \"Abraam\" the seal rolls over the smooth clay and leaves the new mark behind it, a great tree full of stars, lit as it is made.",
+   "purpose": "On \"Abraam\" the seal rolls over the smooth clay and leaves the new mark behind it, a great tree full of stars, lit as it is made.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 12,
+   "slug": "father-of-many",
+   "screen": "The oak in the new sun: acorns drop, and round it one sapling after another breaks the ground, until it stands in a young wood.",
+   "purpose": "The oak in the new sun",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 13,
+   "slug": "fruitful",
+   "screen": "A pomegranate bough: buds swell, redden and round into fruit, and the bough bends with the weight.",
+   "purpose": "A pomegranate bough",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 14,
+   "slug": "kings",
+   "screen": "On a flat stone a gold circlet spins on its edge, wobbles faster, and rings down flat on \"kings\"; more lie shining behind it.",
+   "purpose": "On a flat stone a gold circlet spins on its edge, wobbles faster, and rings down flat on \"kings\"; more lie shining behind it.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 15,
+   "slug": "keep",
+   "screen": "Close: the flax and the light drawn into a knot; on \"keep\" it pulls tight and holds.",
+   "purpose": "Close",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 16,
+   "slug": "every-generation",
+   "screen": "Along a wall of lamps: one flame passes to the next, and the next, as far as the eye goes.",
+   "purpose": "Along a wall of lamps",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 17,
+   "slug": "everlasting",
+   "screen": "Days and nights go over the oak, sun and stars in turn; the light at its foot does not change.",
+   "purpose": "Days and nights go over the oak, sun and stars in turn; the light at its foot does not change.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 19,
+   "slug": "i-will-give",
+   "screen": "On \"give\" the soil opens along a furrow and green comes up in a row towards us.",
+   "purpose": "On \"give\" the soil opens along a furrow and green comes up in a row towards us.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 20,
+   "slug": "all-the-land",
+   "screen": "The land of Chanaan opens from above, terraces, river and the sea beyond; a wave of light runs out over it; one small tent on the hill.",
+   "purpose": "The land of Chanaan opens from above, terraces, river and the sea beyond; a wave of light runs out over it; one small tent on the hill.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 21,
+   "slug": "possession",
+   "screen": "A boundary cairn: stone after stone comes down on the beat; on \"their God\" the light comes over it.",
+   "purpose": "A boundary cairn",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "hold": "one long line"
+  },
+  {
+   "at": 22,
+   "slug": "god-said",
+   "screen": "Noon: the tent curtain lifts of itself, and light walks in over the rugs to the staff.",
+   "purpose": "Noon",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 23,
+   "slug": "you-and-yours",
+   "screen": "Four staffs, a man's down to a child's, set one after another into the ground, each with its own weight.",
+   "purpose": "Four staffs, a man's down to a child's, set one after another into the ground, each with its own weight.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 24,
+   "slug": "fully-keep",
+   "screen": "The cord is wound on the staff, and on \"fully keep\" the turns close up one against the other and bite.",
+   "purpose": "The cord is wound on the staff, and on \"fully keep\" the turns close up one against the other and bite.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 25,
+   "slug": "me-and-you",
+   "screen": "A strand of light from one side, a strand of flax from the staff on the other: they reach, miss, and join on \"me and you\".",
+   "purpose": "A strand of light from one side, a strand of flax from the staff on the other",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 27,
+   "slug": "loom",
+   "screen": "The loom: the shuttle flies, the batten falls, and band by band the cloth of the generations grows.",
+   "purpose": "The loom",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 28,
+   "slug": "every-male",
+   "screen": "A row of wet clay rounds on a board; the seal comes down on each on the beat, and each mark lights and cools.",
+   "purpose": "A row of wet clay rounds on a board; the seal comes down on each on the beat, and each mark lights and cools.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 29,
+   "slug": "curtain",
+   "screen": "The tent curtain falls closed before the lamplight: what is done within is not shown.",
+   "purpose": "The tent curtain falls closed before the lamplight",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": "126.5s",
+   "slug": "the-sign",
+   "screen": "A sealed round of clay hangs from above on the cord; on \"sign\" its mark lights.",
+   "purpose": "A sealed round of clay hangs from above on the cord; on \"sign\" its mark lights.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 32,
+   "slug": "eight-days",
+   "screen": "Eight lamps in a row: seven small flames, and on \"eight\" the eighth takes, taller and brighter than them all.",
+   "purpose": "Eight lamps in a row",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 33,
+   "slug": "born-in-house",
+   "screen": "In the tent the staffs of the house stand in a row, old to young; a hung lamp swings, and their shadows sweep the curtain.",
+   "purpose": "In the tent the staffs of the house stand in a row, old to young; a hung lamp swings, and their shadows sweep the curtain.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 34,
+   "slug": "strangers",
+   "screen": "A leather bag of silver is loosed on a striped cloth: the pieces run, roll, and settle by a stranger's blue-banded jar.",
+   "purpose": "A leather bag of silver is loosed on a striped cloth",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 36,
+   "slug": "one-flame",
+   "screen": "Lamps of the house in red clay and lamps of strangers in pale and blue, two lines meeting, lit from one fire.",
+   "purpose": "Lamps of the house in red clay and lamps of strangers in pale and blue, two lines meeting, lit from one fire.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 38,
+   "slug": "marked",
+   "screen": "Very close: the seal leaves the clay, and the mark stays, glowing in the dark earth as the camera goes round it.",
+   "purpose": "Very close",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 40,
+   "slug": "unmarked",
+   "screen": "The light passes along the row of rounds and each answers; one, blank, does not.",
+   "purpose": "The light passes along the row of rounds and each answers; one, blank, does not.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 42,
+   "slug": "cut-off",
+   "screen": "A row of lamps in the dusk of the tent: one gutters, shrinks, and goes out; its smoke goes up, and the others lean away.",
+   "purpose": "A row of lamps in the dusk of the tent",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 43,
+   "slug": "broken",
+   "screen": "The cord strains between two pegs; strand by strand the flax parts, and on \"broken\" it goes, the ends flying back.",
+   "purpose": "The cord strains between two pegs; strand by strand the flax parts, and on \"broken\" it goes, the ends flying back.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 44,
+   "slug": "no-longer-sara",
+   "screen": "Light comes to the red cloth; the wind drops; its old plain hem hangs still, and on \"no longer\" it slips from the line into the air.",
+   "purpose": "Light comes to the red cloth; the wind drops; its old plain hem hangs still, and on \"no longer\" it slips from the line into the air.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "hold": "God turns to Sara's name"
+  },
+  {
+   "at": 46,
+   "slug": "sarrha",
+   "screen": "On \"Sarrha\" the red cloth opens wide in the light, and gold runs along its hem.",
+   "purpose": "On \"Sarrha\" the red cloth opens wide in the light, and gold runs along its hem.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 47,
+   "slug": "bless-her",
+   "screen": "The red cloth comes down over the cradle like a canopy, and the cradle under it fills with light.",
+   "purpose": "The red cloth comes down over the cradle like a canopy, and the cradle under it fills with light.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 48,
+   "slug": "nations",
+   "screen": "On the valley floor tents go up one after another, cloth lifting on its poles, away into the haze.",
+   "purpose": "On the valley floor tents go up one after another, cloth lifting on its poles, away into the haze.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 49,
+   "slug": "kings-of-nations",
+   "screen": "Gold circlets come down, one after another, over the heads of a row of standing staffs, spin, and come to rest.",
+   "purpose": "Gold circlets come down, one after another, over the heads of a row of standing staffs, spin, and come to rest.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 50,
+   "slug": "laughed",
+   "screen": "The staff falls on its face again, and on \"laughed\" a string of goat bells under the oak leaps and shakes, and the whole oak shivers with it.",
+   "purpose": "The staff falls on its face again, and on \"laughed\" a string of goat bells under the oak leaps and shakes, and the whole oak shivers with it.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 51,
+   "slug": "a-hundred",
+   "screen": "A dead grey stump, split with age; on \"born\" a green shoot stands up out of it and opens.",
+   "purpose": "A dead grey stump, split with age; on \"born\" a green shoot stands up out of it and opens.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": "208.6s",
+   "slug": "ninety",
+   "screen": "A cracked old jar lies on its side, dry; on \"bear a child\" a flowering vine comes out of its mouth and opens.",
+   "purpose": "A cracked old jar lies on its side, dry; on \"bear a child\" a flowering vine comes out of its mouth and opens.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 54,
+   "slug": "may-ismael-live",
+   "screen": "The short staff with the indigo cloth, by itself in the grass; the tall staff leans over it; on \"live\" the indigo lifts into the light.",
+   "purpose": "The short staff with the indigo cloth, by itself in the grass; the tall staff leans over it; on \"live\" the indigo lifts into the light.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": "219.6s",
+   "slug": "ismael-wind",
+   "screen": "Close on the indigo streaming against the sun, the young staff bending and springing back.",
+   "purpose": "Close on the indigo streaming against the sun, the young staff bending and springing back.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 56,
+   "slug": "yes",
+   "screen": "On \"Yes\" the light opens over the red cloth and the staff together; every leaf answers.",
+   "purpose": "On \"Yes\" the light opens over the red cloth and the staff together; every leaf answers.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 57,
+   "slug": "isaac",
+   "screen": "The cradle, three gold bells on its hoop; on \"Isaac\" the bells laugh and the cradle begins to rock.",
+   "purpose": "The cradle, three gold bells on its hoop; on \"Isaac\" the bells laugh and the cradle begins to rock.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 58,
+   "slug": "with-him",
+   "screen": "The cord runs out from the staff across the rug to the cradle, winds on its rim and draws tight; light goes along it.",
+   "purpose": "The cord runs out from the staff across the rug to the cradle, winds on its rim and draws tight; light goes along it.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 60,
+   "slug": "seed-after-him",
+   "screen": "A field of wheat, green to gold in one wave of wind and light, ears filling and bowing.",
+   "purpose": "A field of wheat, green to gold in one wave of wind and light, ears filling and bowing.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 61,
+   "slug": "i-have-heard",
+   "screen": "The light turns and comes to the indigo cloth, hanging low; on \"heard\" it lifts its head.",
+   "purpose": "The light turns and comes to the indigo cloth, hanging low; on \"heard\" it lifts its head.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 62,
+   "slug": "a-spring",
+   "screen": "On \"blessed\" water comes down a dry stone channel, and the banks go green and flower as it passes.",
+   "purpose": "On \"blessed\" water comes down a dry stone channel, and the banks go green and flower as it passes.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": "253.8s",
+   "slug": "twelve",
+   "screen": "Evening on the plain: twelve fires are lit, one after another, each with its tents.",
+   "purpose": "Evening on the plain",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 65,
+   "slug": "but-isaac",
+   "screen": "The cradle again, alone in the last sun, the cord bound on its rim alight; the camera comes close.",
+   "purpose": "The cradle again, alone in the last sun, the cord bound on its rim alight; the camera comes close.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 66,
+   "slug": "next-year",
+   "screen": "A year goes over the oak: gold leaf, bare bough, blossom, green; below it the cradle waits by the red cloth.",
+   "purpose": "A year goes over the oak",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 68,
+   "slug": "finished",
+   "screen": "The wind drops. The light rests on the staff, unmoving; a single leaf comes down through it.",
+   "purpose": "The wind drops. The light rests on the staff, unmoving; a single leaf comes down through it.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": "274.95s",
+   "slug": "went-up",
+   "screen": "On \"went up\" the light lifts off the ground and goes up through the oak into the sky, the shadows racing in after it.",
+   "purpose": "On \"went up\" the light lifts off the ground and goes up through the oak into the sky, the shadows racing in after it.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 70,
+   "slug": "took-ismael",
+   "screen": "Two lines of footprints, a man's and a boy's, pressed one after another into the dust, two staff marks beside them.",
+   "purpose": "Two lines of footprints, a man's and a boy's, pressed one after another into the dust, two staff marks beside them.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 71,
+   "slug": "all-of-them",
+   "screen": "From above: many lines of footprints come in by many paths to one tent.",
+   "purpose": "From above",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 72,
+   "slug": "every-man",
+   "screen": "Outside the great tent, staff after staff is leaned on the ropes; inside, lamplight; the curtain drops.",
+   "purpose": "Outside the great tent, staff after staff is leaned on the ropes; inside, lamplight; the curtain drops.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 73,
+   "slug": "that-very-day",
+   "screen": "The staff's long shadow swings over the ground as the sun goes down, across a ring of stones, to the last.",
+   "purpose": "The staff's long shadow swings over the ground as the sun goes down, across a ring of stones, to the last.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 74,
+   "slug": "ninety-nine-again",
+   "screen": "The spiral of ninety-nine stones in the last light, a lamp set at its heart; the camera climbs.",
+   "purpose": "The spiral of ninety-nine stones in the last light, a lamp set at its heart; the camera climbs.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 75,
+   "slug": "the-tall-staff",
+   "screen": "The clay round is tied to the tall staff; it swings, turns its mark to the lamp, and hangs.",
+   "purpose": "The clay round is tied to the tall staff; it swings, turns its mark to the lamp, and hangs.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 76,
+   "slug": "thirteen",
+   "screen": "Thirteen small stones in a line by the short staff; on \"thirteen\" the last one drops in.",
+   "purpose": "Thirteen small stones in a line by the short staff; on \"thirteen\" the last one drops in.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 77,
+   "slug": "the-short-staff",
+   "screen": "A round of clay on the short staff; the indigo cloth folds over it in the evening air.",
+   "purpose": "A round of clay on the short staff; the indigo cloth folds over it in the evening air.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 78,
+   "slug": "same-day",
+   "screen": "The two staffs side by side at dusk, each with its sign, lamps round their feet; the tent glows behind.",
+   "purpose": "The two staffs side by side at dusk, each with its sign, lamps round their feet; the tent glows behind.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "hold": "one long sung line"
+  },
+  {
+   "at": 80,
+   "slug": "every-man-ring",
+   "screen": "A ring of staffs of every height and wood about the fire, every one with its sign turning in the firelight.",
+   "purpose": "A ring of staffs of every height and wood about the fire, every one with its sign turning in the firelight.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 81,
+   "slug": "house-and-money",
+   "screen": "Lamps of every make going down the hill path from the tents, the same flame in each.",
+   "purpose": "Lamps of every make going down the hill path from the tents, the same flame in each.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": 82,
+   "slug": "foreigners",
+   "screen": "The camera goes up from the lamps about the oak into the first stars.",
+   "purpose": "The camera goes up from the lamps about the oak into the first stars.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)"
+  },
+  {
+   "at": "338s",
+   "slug": "end",
+   "screen": "The oak small and lit in the blue dark under the Milky Way; the title again.",
+   "purpose": "The oak small and lit in the blue dark under the Milky Way; the title again.",
+   "leaves": "cut on the beat, the camera still moving",
+   "carries": "one hill, one day: the same light moving on",
+   "words": "sharp type travelling with the camera, clear of bright sky",
+   "overlay": "lyrics as their own sharp type layer (Song film procedure)",
+   "hold": "end title over the closing bars"
+  }
+ ]
+}
